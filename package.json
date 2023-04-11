@@ -30,6 +30,7 @@
     "fast-glob": "^3.2.12",
     "fastq": "^1.15.0",
     "fill-range": "^7.0.1",
+    "flowbite": "^1.6.4",
     "fraction.js": "^4.2.0",
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
@@ -90,7 +91,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "dev": "npx tailwindcss -p -i ./src/input.css -o ./dist/output.css --watch"
   },
   "keywords": [],
   "author": "",
