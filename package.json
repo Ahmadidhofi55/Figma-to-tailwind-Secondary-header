@@ -19,7 +19,7 @@
     "camelcase-css": "^2.0.1",
     "caniuse-lite": "^1.0.30001474",
     "chokidar": "^3.5.3",
-    "color-name": "^1.1.4",
+    "color-name": "^2.0.0",
     "commander": "^4.1.1",
     "concat-map": "^0.0.1",
     "cssesc": "^3.0.0",
