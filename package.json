@@ -46,7 +46,7 @@
     "is-number": "^7.0.0",
     "jiti": "^1.18.2",
     "lilconfig": "^2.1.0",
-    "lines-and-columns": "^1.2.4",
+    "lines-and-columns": "^2.0.0",
     "merge2": "^1.4.1",
     "micromatch": "^4.0.5",
     "minimatch": "^9.0.0",
