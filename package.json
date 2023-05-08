@@ -34,7 +34,7 @@
     "fraction.js": "^4.2.0",
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
-    "glob": "^7.1.6",
+    "glob": "^10.0.0",
     "glob-parent": "^6.0.2",
     "has": "^1.0.3",
     "inflight": "^1.0.6",
